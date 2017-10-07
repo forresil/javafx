@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="35_SceneBuilder.jnlp">
+  <information>
+    <title>35_SceneBuilder</title>
+    <vendor>Forresil</vendor>
+    <description>SFApp</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="35_SceneBuilder.jar" size="2750" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="0" height="0" main-class="application.Main"  name="SFApp" />
+  <update check="background"/>
+</jnlp>
